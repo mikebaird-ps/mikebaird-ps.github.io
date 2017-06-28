@@ -3,15 +3,15 @@
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
   "cachedDeviceHeight" : 0,
-  "contentScale" : 1,
   "fullScreen" : false,
+  "contentScale" : 1,
   "cachedDeviceWidth" : 0,
   "deviceType" : "fullscreen",
   "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
     "Filters" : false
   },
-  "projectId" : "1BF9D4CF-C1FA-4986-9A0A-0FCAFCA2996E",
+  "projectId" : "B83470B9-312C-448A-96BC-9D0A68B24FBD",
   "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,
