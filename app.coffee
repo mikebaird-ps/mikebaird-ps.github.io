@@ -1,3 +1,4 @@
+Framer.Device.deviceType = "fullscreen"	
 Create_New_Session_Toggle.states.ToggleHover =
 	shadowX: 0
 	shadowBlur: 20
@@ -29,7 +30,7 @@ flow.showNext(SD_screen)
 # Switch on click
 Create_New_Session_Toggle.onClick ->
 	flow.showNext(Sesh_screen)
-	
+
 
 Previous_Breadcrumb.onClick ->
 	flow.showPrevious(Sesh_screen)
