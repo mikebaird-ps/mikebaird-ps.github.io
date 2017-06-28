@@ -3,7 +3,6 @@
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
   "cachedDeviceHeight" : 0,
-  "fullScreen" : false,
   "contentScale" : 1,
   "cachedDeviceWidth" : 0,
   "deviceType" : "fullscreen",
@@ -16,7 +15,7 @@
   "selectedHand" : "",
   "showBezel" : 0,
   "foldedCodeRanges" : [
-    "{0, 747}"
+    "{0, 783}"
   ],
-  "deviceScale" : -1
+  "deviceScale" : 1
 }

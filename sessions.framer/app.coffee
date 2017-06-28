@@ -1,4 +1,5 @@
 Framer.Device.deviceType = "fullscreen"	
+document.body.style.cursor = "auto"
 Create_New_Session_Toggle.states.ToggleHover =
 	shadowX: 0
 	shadowBlur: 20
