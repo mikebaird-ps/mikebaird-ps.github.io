@@ -1,5 +1,5 @@
 flow = new FlowComponent
-flow.showNext(artboardA)
+flow.showNext(artboardH)
 
 #Navigation
 #nav A
@@ -16,17 +16,29 @@ backB.onClick ->
 nextC.onClick ->
 	flow.showNext(artboardD)
 backC.onClick ->
-	flow.showPrevious(artboardB)
+	flow.showPrevious()
 
 #nav D
 nextD.onClick ->
 	flow.showNext(artboardE)
 backD.onClick ->
-	flow.showPrevious(artboardC)
+	flow.showPrevious()
 
 #nav E
+nextE.onClick ->
+	flow.showNext(artboardF)
 backE.onClick ->
-	flow.showPrevious(artboardD)
+	flow.showPrevious()
+	
+#nav F
+nextF.onClick ->
+	flow.showNext(artboardG)
+backF.onClick ->
+	flow.showPrevious()
+	
+#nav G
+backG.onClick ->
+	flow.showPrevious()
 
 #Artboard A - Multi-State Actions
 layer.states =
@@ -110,9 +122,9 @@ ball.onAnimationEnd ->
 	
 
 #Artboard E - Draggable Layers
-box.draggable.enabled=true
+box.draggable.enabled = true
 
-box.draggable.vertical=false
+box.draggable.vertical = false
 
 box.draggable.constraints=
 	x:32
@@ -128,7 +140,29 @@ box.onDragEnd ->
 		scale: 1
 		shadowBlur: 0
 		
-box.draggable.overdrag=false
-box.draggable.bounce=false 	
+box.draggable.overdrag = false
+box.draggable.bounce = false 	
 
-			
+#Artboard F - Pinchable Layers
+boxZoom.pinchable.enabled = true
+boxZoom.draggable.enabled = true
+boxZoom.onPinchEnd ->
+	boxZoom.animate
+		scale: 1
+		rotation: 0
+		options: 
+			curve: Spring(damping: .7)
+
+#Artboard G - Modal
+buttonG.onClick ->
+	flow.showOverlayCenter(ModalG)
+	ModalG.onclick ->
+		flow.showPrevious()	
+		
+#Artboard H - Scrolling
+scroll = new ScrollComponent
+	size: Screen.size
+List.parent=scroll.content
+
+
+
