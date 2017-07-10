@@ -12,6 +12,7 @@
         "parentid" : "sNe_GXsF",
         "width" : 152,
         "y" : 816,
+        "deviceType" : null,
         "fillGradient" : {
           "end" : "rgba(0,0,0,0)",
           "alpha" : 1,

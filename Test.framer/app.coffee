@@ -1,5 +1,6 @@
 flow = new FlowComponent
-flow.showNext(artboardH)
+flow.showNext(artboardA
+)
 
 #Navigation
 #nav A
@@ -35,10 +36,10 @@ nextF.onClick ->
 	flow.showNext(artboardG)
 backF.onClick ->
 	flow.showPrevious()
-	
-#nav G
-backG.onClick ->
-	flow.showPrevious()
+# 	
+# #nav G
+# backG.onClick ->
+# 	flow.showPrevious()
 
 #Artboard A - Multi-State Actions
 layer.states =
@@ -153,16 +154,16 @@ boxZoom.onPinchEnd ->
 		options: 
 			curve: Spring(damping: .7)
 
-#Artboard G - Modal
-buttonG.onClick ->
-	flow.showOverlayCenter(ModalG)
-	ModalG.onclick ->
-		flow.showPrevious()	
+# #Artboard G - Modal
+# buttonG.onClick ->
+# 	flow.showOverlayCenter(ModalG)
+# 	ModalG.onclick ->
+# 		flow.showPrevious()	
 		
-#Artboard H - Scrolling
-scroll = new ScrollComponent
-	size: Screen.size
-List.parent=scroll.content
+# #Artboard H - Scrolling
+# scroll = new ScrollComponent
+# 	size: Screen.size
+# List.parent=scroll.content
 
 
 
