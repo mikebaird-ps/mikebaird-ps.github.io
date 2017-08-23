@@ -10,7 +10,7 @@ now = datetime.now()
 
 mm = str(now.month)
 
-dd = str(now.day)
+dd = str()
 
 yyyy = str(now.year)
 
@@ -21,3 +21,8 @@ mi = str(now.minute)
 ss = str(now.second)
 
 print mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss
+
+import datetime
+d = datetime.date(year=2010, month=3, day=15)
+t = datetime.time(hour=10, minute=11, second=50)
+print datetime.datetime.combine(d, t)
