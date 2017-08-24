@@ -1,8 +1,6 @@
-InputModule = require "input"
+flow = new FlowComponent
 
-input = new InputModule.Input
-  setup: false # Change to true when positioning the input so you can see it
-  y: 12 # y position
-  x: 160  # x position
-  width: 1217
-  height: 70	
+flow.showNext(searchPage)
+
+searchBtn.onClick ->
+	flow.showNext(searchResultPage, {animate: false})

@@ -2,12 +2,12 @@
   "orientation" : 0,
   "updateDelay" : 0.3,
   "designModeSelected" : 0,
-  "cachedDeviceHeight" : 720,
+  "cachedDeviceHeight" : 1080,
   "contentScale" : 1,
-  "cachedDeviceWidth" : 1152,
+  "cachedDeviceWidth" : 1920,
   "fullScreen" : false,
-  "deviceType" : "apple-macbook",
-  "sharedPrototype" : 0,
+  "deviceType" : "dell-xps",
+  "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
 
   },
