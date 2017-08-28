@@ -19,7 +19,10 @@ for result in data.results
 	(newSearchResult.children.find (x) -> x.name == 'searchResultUrl').text = result.link
 	(newSearchResult.children.find (x) -> x.name == 'searchResultBody').text = result.description
 	newSearchResult.y = nextY
-	nextY += 100
+	textHeight = (newSearchResult.children.find (x) -> x.name == 'searchResultBody').height
+	textY = (newSearchResult.children.find (x) -> x.name == 'searchResultBody').y
+	paddingHeightFromGoogle = 26
+	nextY += textY + textHeight + paddingHeightFromGoogle
 	
 	if (result.id == 'python-datetime-code')
 		newSearchResult.onClick ->

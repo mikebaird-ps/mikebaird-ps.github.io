@@ -1414,12 +1414,12 @@
                           "depth" : 0,
                           "inlineStyleRanges" : [
                             {
-                              "length" : 23,
+                              "length" : 116,
                               "style" : "SIZE:13",
                               "offset" : 0
                             },
                             {
-                              "length" : 23,
+                              "length" : 116,
                               "style" : "COLOR:rgb(106, 106, 106)",
                               "offset" : 0
                             }
@@ -1433,8 +1433,251 @@
                               "COLOR:rgb(84, 84, 84)"
                             ]
                           },
-                          "text" : "Placeholder Description",
+                          "text" : "Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description ",
                           "key" : "6st2j",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 116,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 116,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel ",
+                          "key" : "5gge6",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 116,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 116,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj ",
+                          "key" : "9mtc4",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 111,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 111,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl",
+                          "key" : "9ec6j",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 117,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 117,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : " Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description ",
+                          "key" : "1fubb",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 116,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 116,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel ",
+                          "key" : "7vuq2",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 118,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 118,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rt",
+                          "key" : "97avt",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 119,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 119,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "bglerbkljejklrjkl Placeholder Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placehold",
+                          "key" : "oovu",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 120,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 120,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "er Description aslkdjflwkefjwelkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl Placeholder Description aslkdjflwkefj",
+                          "key" : "c52e7",
+                          "type" : "unstyled"
+                        },
+                        {
+                          "depth" : 0,
+                          "inlineStyleRanges" : [
+                            {
+                              "length" : 55,
+                              "style" : "SIZE:13",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 55,
+                              "style" : "COLOR:rgb(106, 106, 106)",
+                              "offset" : 0
+                            }
+                          ],
+                          "entityRanges" : [
+
+                          ],
+                          "data" : {
+                            "emptyStyle" : [
+                              "SIZE:13",
+                              "COLOR:rgb(106, 106, 106)"
+                            ]
+                          },
+                          "text" : "welkfjklel kgekljrtglk ertjklgelkj rtbglerbkljejklrjkl ",
+                          "key" : "585gg",
                           "type" : "unstyled"
                         }
                       ],
@@ -1461,7 +1704,7 @@
                     "bottom" : null,
                     "height" : 15,
                     "opacity" : 1,
-                    "width" : 148,
+                    "width" : 690,
                     "widthFactor" : null,
                     "targetName" : "searchResultBody",
                     "heightFactor" : null,

@@ -1,5 +1,5 @@
 {
-  "searchPhrase": "python datetime",
+  "searchPhrase": "java string format",
   "customResults": [
     {
       "id": "python-datetime-code",
@@ -16,10 +16,10 @@
   ],
   "results": [
     {
-      "title": "8.1. datetime — Basic date and time types — Python 2.7.13 ...",
-      "link": "https://docs.python.org/2/library/datetime.html",
-      "description": "The datetime module supplies classes for manipulating dates and times in both \nsimple and complex ways. While date and time arithmetic is supported, the focus\n ...",
-      "href": "https://docs.python.org/2/library/datetime.html"
+      "title": "Java String Format Examples - DZone Java",
+      "link": "https://dzone.com/articles/java-string-format-examples",
+      "description": "Feb 17, 2017 ... Most common way of formatting a string in java is using String.format(). If there were a “java sprintf” then this would be it. String output = String.format(\"%s = %d\", \"joe\", 35); For formatted console output, you can use printf() or the format() method of System.out and System.err PrintStreams.",
+      "href": "https://dzone.com/articles/java-string-format-examples"
     },
     {
       "id": "python-datetime-code",
@@ -28,10 +28,10 @@
       "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
-      "title": "datetime – Date/time value manipulation - Python Module of the Week",
-      "link": "https://pymotw.com/2/datetime/",
-      "description": "Purpose: The datetime module includes functions and classes for doing date ... \npython datetime_time.py 01:02:03 hour : 1 minute: 2 second: 3 microsecond: 0 ...",
-      "href": "https://pymotw.com/2/datetime/"
+      "title": "Java String.format Examples: Numbers and Strings - Dot Net Perls",
+      "link": "https://www.dotnetperls.com/format-java",
+      "description": "These Java examples use String.format to create strings with variables inserted \nin them. Integers, strings and other numbers are handled.",
+      "href": "https://www.dotnetperls.com/format-java"
     },
     {
       "id": "python-datetime-clip",
@@ -40,40 +40,40 @@
       "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
-      "title": "datetime - How to print date in a regular format in Python? - Stack ...",
-      "link": "https://stackoverflow.com/questions/311627/how-to-print-date-in-a-regular-format-in-python",
-      "description": "Nov 22, 2008 ... Any object in Python have TWO string representations: .... The date, datetime, \nand time objects all support a strftime(format) method, to create a ...",
-      "href": "https://stackoverflow.com/questions/311627/how-to-print-date-in-a-regular-format-in-python"
+      "title": "Java String format() method - javatpoint",
+      "link": "https://www.javatpoint.com/java-string-format",
+      "description": "Java String format() method with method signature and examples of concat, \ncompare, touppercase, tolowercase, trim, length, equals, split, string format in \njava ...",
+      "href": "https://www.javatpoint.com/java-string-format"
     },
     {
-      "title": "datetime - How to get current time in Python - Stack Overflow",
-      "link": "https://stackoverflow.com/questions/415511/how-to-get-current-time-in-python",
-      "description": "Jan 6, 2009 ... To save typing, you can import the datetime object from the datetime module: >>> \nfrom ... https://docs.python.org/3/library/time.html#time.strftime ...",
-      "href": "https://stackoverflow.com/questions/415511/how-to-get-current-time-in-python"
+      "title": "Java String formatting with the String format method (like sprintf ...",
+      "link": "http://alvinalexander.com/blog/post/java/use-string-format-java-string-output",
+      "description": "Jul 15, 2017 ... How to use the format method of the Java String class to print formatted output. \nThis functionality is similar to having a Java sprintf method at ...",
+      "href": "http://alvinalexander.com/blog/post/java/use-string-format-java-string-output"
     },
     {
-      "title": "How to use Date and Time in Python - Python For Beginners",
-      "link": "http://www.pythonforbeginners.com/basics/python-datetime-time-examples",
-      "description": "Oct 3, 2012 ... Date and Time This post will show some examples using Pythons datetime and \ntime modules. In a previous post I ...",
-      "href": "http://www.pythonforbeginners.com/basics/python-datetime-time-examples"
+      "title": "A 'printf' format reference page (cheat sheet) | alvinalexander.com",
+      "link": "http://alvinalexander.com/programming/printf-format-cheat-sheet",
+      "description": "And here are three different Java printf examples, using different string formatting \nmethods that are available ...",
+      "href": "http://alvinalexander.com/programming/printf-format-cheat-sheet"
     },
     {
-      "title": "Understanding datetime in Python: A primer | Opensource.com",
-      "link": "https://opensource.com/article/17/5/understanding-datetime-python-primer",
-      "description": "May 12, 2017 ... \"Datetime\" is one of those APIs that seems easy to use, but isn't. Get a better \nunderstanding of datetime in Python with this primer.",
-      "href": "https://opensource.com/article/17/5/understanding-datetime-python-primer"
+      "title": "Java String format Example",
+      "link": "https://examples.javacodegeeks.com/core-java/lang/string/java-string-format-example/",
+      "description": "Mar 13, 2014 ... In this example we are going to see how to format Strings in Java using various \napproaches, like the string.format, System.out.printf methods ...",
+      "href": "https://examples.javacodegeeks.com/core-java/lang/string/java-string-format-example/"
     },
     {
-      "title": "Working with datetime objects and timezones in Python - howchoo",
-      "link": "https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python",
-      "description": "This guide will provide an overview of Python's datetime module with an \nemphasis on timezone related functions.",
-      "href": "https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python"
+      "title": "Java String Format Examples - CodeJava",
+      "link": "http://www.codejava.net/java-se/file-io/java-string-format-examples",
+      "description": "Dec 15, 2016 ... How to use the System.out.format() or String.format() methods with various useful \n... Complete Java Masterclass - 114,841 students enrolled.",
+      "href": "http://www.codejava.net/java-se/file-io/java-string-format-examples"
     },
     {
-      "title": "cpython/datetime.py at master · python/cpython · GitHub",
-      "link": "https://github.com/python/cpython/blob/master/Lib/datetime.py",
-      "description": "Utility functions, adapted from Python's Demo/classes/Dates.py, which. # also \nassumes the current Gregorian calendar indefinitely extended in. # both \ndirections.",
-      "href": "https://github.com/python/cpython/blob/master/Lib/datetime.py"
+      "title": "How to format String in Java – String format Example - Javarevisited",
+      "link": "http://javarevisited.blogspot.com/2012/08/how-to-format-string-in-java-printf.html",
+      "description": "String formatting is introduced in Java 5 with format() and printf() method in JDK \nAPI. This Java program demonstrate how to format String in Java by explaining ...",
+      "href": "http://javarevisited.blogspot.com/2012/08/how-to-format-string-in-java-printf.html"
     }
   ]
 }
