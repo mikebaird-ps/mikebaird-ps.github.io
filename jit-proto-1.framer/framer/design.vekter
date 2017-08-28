@@ -314,7 +314,7 @@
 
                       }
                     },
-                    "name" : null,
+                    "name" : "searchResultPageSearchTerm",
                     "shadows" : [
                       {
                         "y" : 2,
@@ -334,7 +334,7 @@
                     "opacity" : 1,
                     "width" : 180,
                     "widthFactor" : null,
-                    "targetName" : null,
+                    "targetName" : "searchResultPageSearchTerm",
                     "heightFactor" : null,
                     "editable" : false,
                     "visible" : true,
@@ -346,7 +346,7 @@
                 "fillEnabled" : true,
                 "parentid" : "1^abMRN<",
                 "borderRight" : 1,
-                "name" : null,
+                "name" : "Search Box",
                 "height" : 45,
                 "borderWidth" : 1,
                 "top" : 17,
@@ -362,7 +362,7 @@
                 "borderLeft" : 1,
                 "heightFactor" : null,
                 "radiusTopLeft" : 2,
-                "targetName" : null,
+                "targetName" : "Search_Box",
                 "bottom" : null,
                 "width" : 652
               },
@@ -12216,9 +12216,9 @@
         ],
         "height" : 1764,
         "fillType" : "color",
-        "targetName" : null,
+        "targetName" : "codeExampleResult",
         "fillColor" : "rgb(235, 237, 239)",
-        "name" : "Code Example"
+        "name" : "codeExampleResult"
       },
       {
         "id" : "^#I-](@k",
@@ -21467,9 +21467,9 @@
         ],
         "height" : 1954,
         "fillType" : "color",
-        "targetName" : null,
+        "targetName" : "clipResult",
         "fillColor" : "rgb(235, 237, 239)",
-        "name" : "Clip"
+        "name" : "clipResult"
       }
     ]
   }

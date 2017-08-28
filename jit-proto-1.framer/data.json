@@ -1,5 +1,5 @@
 {
-  "searchPhrase": "Hello world 2",
+  "searchPhrase": "python datetime",
   "results": [
     {
       "title": "MySQL LIMIT clause equivalent for SQL SERVER - Stack Overflow",
@@ -8,8 +8,15 @@
       "snippet": "In SQL Server 2012, there is support for the ANSI standard OFFSET ... you can't use standard syntax or MySQL's non-standard LIMIT but you ..."
     },
     {
-      "id": "python-datetime",
-      "title": "How do I get datetime in Python",
+      "id": "python-datetime-code",
+      "title": "How do I get datetime in Python (Code)",
+      "url": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "date": "Jan 23, 2017",
+      "snippet": "The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+    },
+    {
+      "id": "python-datetime-clip",
+      "title": "How do I get datetime in Python (Clip)",
       "url": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
       "date": "Jan 23, 2017",
       "snippet": "The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."

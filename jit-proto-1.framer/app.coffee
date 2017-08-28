@@ -1,6 +1,3 @@
-# Import file "JIT Web Layout - 8-17-17"
-sketch = Framer.Importer.load("imported/JIT Web Layout - 8-17-17@1x", scale: 1)
-
 flow = new FlowComponent
 	scroll:
 		scrollHorizontal: false
@@ -13,6 +10,7 @@ searchBtn.onClick ->
 data = JSON.parse Utils.domLoadDataSync "data.json"
 
 searchPageSearchText.text = data.searchPhrase
+searchResultPageSearchTerm.text = data.searchPhrase
 
 nextY = 0
 for result in data.results
@@ -23,9 +21,12 @@ for result in data.results
 	newSearchResult.y = nextY
 	nextY += 100
 	
-	if (result.id == 'python-datetime')
+	if (result.id == 'python-datetime-code')
 		newSearchResult.onClick ->
-			flow.showNext(sketch.Examples_Related_Copy_5)
+			flow.showNext(codeExampleResult)
+	if (result.id == 'python-datetime-clip')
+		newSearchResult.onClick ->
+			flow.showNext(clipResult)
 	
 	newSearchResult.parent = searchResultsList
 
