@@ -1,61 +1,79 @@
 {
   "searchPhrase": "python datetime",
-  "results": [
-    {
-      "title": "MySQL LIMIT clause equivalent for SQL SERVER - Stack Overflow",
-      "url": "https://stackoverflow.com/questions/.../mysql-limit-clause-equivalent-for-sql-server",
-      "date": "Jan 26, 2012",
-      "snippet": "In SQL Server 2012, there is support for the ANSI standard OFFSET ... you can't use standard syntax or MySQL's non-standard LIMIT but you ..."
-    },
+  "customResults": [
     {
       "id": "python-datetime-code",
       "title": "How do I get datetime in Python (Code)",
-      "url": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
-      "date": "Jan 23, 2017",
-      "snippet": "The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
       "id": "python-datetime-clip",
       "title": "How do I get datetime in Python (Clip)",
-      "url": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
-      "date": "Jan 23, 2017",
-      "snippet": "The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+    }
+  ],
+  "results": [
+    {
+      "title": "8.1. datetime — Basic date and time types — Python 2.7.13 ...",
+      "link": "https://docs.python.org/2/library/datetime.html",
+      "description": "The datetime module supplies classes for manipulating dates and times in both \nsimple and complex ways. While date and time arithmetic is supported, the focus\n ...",
+      "href": "https://docs.python.org/2/library/datetime.html"
     },
     {
-      "title": "What is the Equivalent syntax of mysql \" LIMIT \" clause in SQL Server",
-      "url": "https://stackoverflow.com/.../what-is-the-equivalent-syntax-of-mysql-limit-clause-in-s...",
-      "date": "Nov 15, 2009",
-      "snippet": "The closest to it is SELECT TOP X but it is only equivalent to LIMIT X . For LIMIT X, Y, there is no direct MS-SQL equivalent (as far as I know)."
+      "id": "python-datetime-code",
+      "title": "How do I get datetime in Python (Code)",
+      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
-      "title": "The SQL Server equivalent for the MySQL Limit - Stack Overflow",
-      "url": "https://stackoverflow.com/questions/.../the-sql-server-equivalent-for-the-mysql-limit",
-      "date": "Feb 13, 2012",
-      "snippet": "Try this: SELECT * FROM ( SELECT *, ROW_NUMBER() OVER (ORDER BY email) as rowNum FROM tableName ) sub WHERE rowNum > 9 ..."
+      "title": "datetime – Date/time value manipulation - Python Module of the Week",
+      "link": "https://pymotw.com/2/datetime/",
+      "description": "Purpose: The datetime module includes functions and classes for doing date ... \npython datetime_time.py 01:02:03 hour : 1 minute: 2 second: 3 microsecond: 0 ...",
+      "href": "https://pymotw.com/2/datetime/"
     },
     {
-      "title": "mysql limit equivalent - MSDN - Microsoft",
-      "url": "https://social.msdn.microsoft.com › SQL Server › Transact-SQL",
-      "date": "Oct 25, 2005",
-      "snippet": "Hi, I need the equivalent for below mysql query : select *from test limit 5, 20. I know that the below is possible in SQL Server : select top 20 ..."
+      "id": "python-datetime-clip",
+      "title": "How do I get datetime in Python (Clip)",
+      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
-      "title": "the MS SQL equivalent to MySQL's 'limit' command - Vorg Blog",
-      "url": "vorg.ca/626-the-MS-SQL-equivalent-to-MySQLs-limit-command",
-      "date": "Dec 25, 1015",
-      "snippet": "Hi, I need the equivalent for below mysql query : select *from test limit 5, 20. I know that the below is possible in SQL Server : select top 20 ..."
+      "title": "datetime - How to print date in a regular format in Python? - Stack ...",
+      "link": "https://stackoverflow.com/questions/311627/how-to-print-date-in-a-regular-format-in-python",
+      "description": "Nov 22, 2008 ... Any object in Python have TWO string representations: .... The date, datetime, \nand time objects all support a strftime(format) method, to create a ...",
+      "href": "https://stackoverflow.com/questions/311627/how-to-print-date-in-a-regular-format-in-python"
     },
     {
-      "title": "MySQL LIMIT equivalent in MS SQL 2000 - Database Journal Forums",
-      "url": "forums.databasejournal.com › ... › MS SQL Server 7/MS SQL Server 2000",
-      "date": "Oct 11, 2007",
-      "snippet": "I am looking for the MS SQL equivalent of MySQL LIMIT. I know that the code in MySQL is SELECT col_name FROM tbl_name LIMIT x,y where ..."
+      "title": "datetime - How to get current time in Python - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/415511/how-to-get-current-time-in-python",
+      "description": "Jan 6, 2009 ... To save typing, you can import the datetime object from the datetime module: >>> \nfrom ... https://docs.python.org/3/library/time.html#time.strftime ...",
+      "href": "https://stackoverflow.com/questions/415511/how-to-get-current-time-in-python"
     },
     {
-      "title": "SQL Server: Limit (MySQL) equal Function in SQL Server : Connect SQL",
-      "url": "www.connectsql.com/2012/07/sql-server-limit-mysql-equal-function.html",
-      "date": "Jul 11, 2012",
-      "snippet": "In MySQL, Limit is a powerful function used with SELECT query to return rows BUT within given range. We commonly need it when returning ..."
+      "title": "How to use Date and Time in Python - Python For Beginners",
+      "link": "http://www.pythonforbeginners.com/basics/python-datetime-time-examples",
+      "description": "Oct 3, 2012 ... Date and Time This post will show some examples using Pythons datetime and \ntime modules. In a previous post I ...",
+      "href": "http://www.pythonforbeginners.com/basics/python-datetime-time-examples"
+    },
+    {
+      "title": "Understanding datetime in Python: A primer | Opensource.com",
+      "link": "https://opensource.com/article/17/5/understanding-datetime-python-primer",
+      "description": "May 12, 2017 ... \"Datetime\" is one of those APIs that seems easy to use, but isn't. Get a better \nunderstanding of datetime in Python with this primer.",
+      "href": "https://opensource.com/article/17/5/understanding-datetime-python-primer"
+    },
+    {
+      "title": "Working with datetime objects and timezones in Python - howchoo",
+      "link": "https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python",
+      "description": "This guide will provide an overview of Python's datetime module with an \nemphasis on timezone related functions.",
+      "href": "https://howchoo.com/g/ywi5m2vkodk/working-with-datetime-objects-and-timezones-in-python"
+    },
+    {
+      "title": "cpython/datetime.py at master · python/cpython · GitHub",
+      "link": "https://github.com/python/cpython/blob/master/Lib/datetime.py",
+      "description": "Utility functions, adapted from Python's Demo/classes/Dates.py, which. # also \nassumes the current Gregorian calendar indefinitely extended in. # both \ndirections.",
+      "href": "https://github.com/python/cpython/blob/master/Lib/datetime.py"
     }
   ]
 }

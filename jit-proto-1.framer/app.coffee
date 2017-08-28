@@ -16,8 +16,8 @@ nextY = 0
 for result in data.results
 	newSearchResult = exampleSearchResult.copy()
 	(newSearchResult.children.find (x) -> x.name == 'searchResultTitle').text = result.title
-	(newSearchResult.children.find (x) -> x.name == 'searchResultUrl').text = result.url
-	(newSearchResult.children.find (x) -> x.name == 'searchResultBody').template = result
+	(newSearchResult.children.find (x) -> x.name == 'searchResultUrl').text = result.link
+	(newSearchResult.children.find (x) -> x.name == 'searchResultBody').text = result.description
 	newSearchResult.y = nextY
 	nextY += 100
 	
