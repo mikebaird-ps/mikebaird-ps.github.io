@@ -3,14 +3,14 @@
   "customResults": [
     {
       "id": "python-datetime-code",
-      "title": "How do I get datetime in Python (Code)",
-      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "title": "Why doesn't my React JS form accept user input? (Code)",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+code",
       "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     },
     {
       "id": "python-datetime-clip",
       "title": "How do I get datetime in Python (Clip)",
-      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+clip",
       "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
     }
   ],
@@ -23,9 +23,9 @@
     },
     {
       "id": "python-datetime-code",
-      "title": "How do I get datetime in Python (Code)",
-      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
-      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+      "title": "Why doesn't my React JS form accept user input?",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+code",
+      "description": "Jan 23, 2017 - You may have seen the console warning about controlled fields needing an onChange handler and added one just to shut the warning up..."
     },
     {
       "title": "javascript - KeyPress event handling in reactJs - Stack Overflow",
@@ -34,14 +34,8 @@
       "href": "https://stackoverflow.com/questions/27827234/keypress-event-handling-in-reactjs"
     },
     {
-      "id": "python-datetime-clip",
-      "title": "How do I get datetime in Python (Clip)",
-      "link": "https://www.pluralsight.com/.../how-do-i-get-datetime-in-python",
-      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
-    },
-    {
       "title": "reactjs - Enter key event handler on react-bootstrap Input component ...",
-      "link": "https://stackoverflow.com/questions/34223558/enter-key-event-handler-on-react-bootstrap-input-component",
+      "link": "https://stackoverflow.com/questions/34223558/enter-key-event-handler-on-react-bootstrap",
       "description": "Dec 11, 2015 ... I think this question is related to React itself instead of react-bootstrap. Look at \nthis for some basics about React event system: ...",
       "href": "https://stackoverflow.com/questions/34223558/enter-key-event-handler-on-react-bootstrap-input-component"
     },
