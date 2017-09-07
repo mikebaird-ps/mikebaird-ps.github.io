@@ -4,7 +4,7 @@ flow.showNext(searchPage)
 
 searchBtn.onClick ->
 	flow.showNext(searchResultPage, {animate: false})
-	flow.scroll.mouseWheelEnabled = true
+# 	flow.scroll.mouseWheelEnabled = true
 
 data = JSON.parse Utils.domLoadDataSync "data.json"
 
@@ -25,7 +25,7 @@ for result in data.results
 	
 	if (result.id == 'python-datetime-code')
 		newSearchResult.onClick ->
-			flow.showNext(codeExampleResult)
+			flow.showNext(ResultJSReactForm)
 			flow.scroll.mouseWheelEnabled = true
 	if (result.id == 'python-datetime-clip')
 		newSearchResult.onClick ->
