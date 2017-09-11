@@ -5,13 +5,12 @@ flow.showNext(searchPage)
 
 searchBtn.onClick ->
 	flow.showNext(searchResultPage, {animate: false})
-# 	flow.scroll.mouseWheelEnabled = true
 
 data = JSON.parse Utils.domLoadDataSync "data.json"
 
 searchPageSearchText.text = data.searchPhrase
 searchResultPageSearchTerm.text = data.searchPhrase
-
+	
 nextY = 0
 for result in data.results
 	newSearchResult = exampleSearchResult.copy()
