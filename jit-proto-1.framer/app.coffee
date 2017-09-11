@@ -1,4 +1,6 @@
 
+Framer.Device.deviceType = "fullscreen"
+
 flow = new FlowComponent
 
 flow.showNext(searchPage)
