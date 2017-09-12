@@ -1,6 +1,6 @@
 
 Framer.Device.deviceType = "fullscreen"
-document.body.style.cursor = "auto"
+document.body.style.cursor = "auto" 
 
 flow = new FlowComponent
 
