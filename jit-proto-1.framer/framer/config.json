@@ -5,7 +5,6 @@
   "cachedDeviceHeight" : 0,
   "contentScale" : 1,
   "cachedDeviceWidth" : 0,
-  "fullScreen" : false,
   "deviceType" : "fullscreen",
   "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
@@ -18,5 +17,5 @@
   "foldedCodeRanges" : [
 
   ],
-  "deviceScale" : -1
+  "deviceScale" : 1
 }
