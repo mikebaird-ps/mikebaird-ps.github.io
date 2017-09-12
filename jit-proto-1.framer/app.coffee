@@ -1,7 +1,7 @@
 
 Framer.Device.deviceType = "fullscreen"
 document.body.style.cursor = "auto" 
-Utils.insertCSS("@import url(https://cloud.typography.com/6966154/6630992/css/fonts.css);")
+Utils.insertCSS("@import url(//cloud.typography.com/6966154/7885752/css/fonts.css);")
 
 flow = new FlowComponent
 
