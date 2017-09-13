@@ -160,7 +160,7 @@
                   {
                     "__class" : "TextNode",
                     "locked" : false,
-                    "centerAnchorX" : 0.4553742802303263,
+                    "centerAnchorX" : 0.4232245681381958,
                     "parentid" : ")yA[[|!$",
                     "rotation" : 0,
                     "top" : 0,
@@ -187,12 +187,12 @@
                             },
                             {
                               "length" : 47,
-                              "style" : "FONT:GothamSSm-Book",
+                              "style" : "SIZE:36",
                               "offset" : 0
                             },
                             {
                               "length" : 47,
-                              "style" : "SIZE:36",
+                              "style" : "FONT:Montserrat-Regular",
                               "offset" : 0
                             }
                           ],
@@ -204,8 +204,8 @@
                               "LETTERSPACING:0",
                               "LINEHEIGHT:1.2",
                               "COLOR:rgb(255, 255, 255)",
-                              "FONT:GothamSSm-Book",
-                              "SIZE:36"
+                              "SIZE:36",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Why doesn't my React JS form accept user input?",
@@ -236,7 +236,7 @@
                     "bottom" : null,
                     "height" : 43,
                     "opacity" : 1,
-                    "width" : 949,
+                    "width" : 882,
                     "widthFactor" : null,
                     "targetName" : null,
                     "heightFactor" : null,
@@ -303,11 +303,6 @@
                                 },
                                 {
                                   "length" : 2,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 2,
                                   "style" : "LETTERSPACING:0",
                                   "offset" : 0
                                 },
@@ -320,6 +315,11 @@
                                   "length" : 2,
                                   "style" : "SIZE:38",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 2,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -328,10 +328,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "COLOR:rgb(127, 127, 127)",
-                                  "FONT:GothamSSm-Medium",
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
-                                  "SIZE:38"
+                                  "SIZE:38",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "28",
@@ -362,7 +362,7 @@
                         "bottom" : null,
                         "height" : 45,
                         "opacity" : 1,
-                        "width" : 51,
+                        "width" : 48,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -451,11 +451,6 @@
                                 },
                                 {
                                   "length" : 5,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 5,
                                   "style" : "LINEHEIGHT:1.7",
                                   "offset" : 0
                                 },
@@ -468,6 +463,11 @@
                                   "length" : 5,
                                   "style" : "SIZE:14",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 5,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -476,10 +476,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
-                                  "FONT:GothamSSm-Book",
                                   "LINEHEIGHT:1.7",
                                   "COLOR:rgb(127, 127, 127)",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "Likes",
@@ -660,11 +660,6 @@
                                 },
                                 {
                                   "length" : 7,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 7,
                                   "style" : "LINEHEIGHT:1.7",
                                   "offset" : 0
                                 },
@@ -677,6 +672,11 @@
                                   "length" : 7,
                                   "style" : "SIZE:14",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 7,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -685,10 +685,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
-                                  "FONT:GothamSSm-Book",
                                   "LINEHEIGHT:1.7",
                                   "COLOR:rgb(127, 127, 127)",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "Sources",
@@ -749,11 +749,6 @@
                                 },
                                 {
                                   "length" : 2,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 2,
                                   "style" : "LETTERSPACING:0",
                                   "offset" : 0
                                 },
@@ -766,6 +761,11 @@
                                   "length" : 2,
                                   "style" : "SIZE:38",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 2,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -774,10 +774,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "COLOR:rgb(127, 127, 127)",
-                                  "FONT:GothamSSm-Medium",
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
-                                  "SIZE:38"
+                                  "SIZE:38",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "34",
@@ -808,7 +808,7 @@
                         "bottom" : null,
                         "height" : 45,
                         "opacity" : 1,
-                        "width" : 53,
+                        "width" : 45,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -904,17 +904,17 @@
                                 },
                                 {
                                   "length" : 3,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 3,
                                   "style" : "COLOR:rgb(127, 127, 127)",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 3,
                                   "style" : "SIZE:38",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 3,
+                                  "style" : "FONT:Montserrat-Regular",
                                   "offset" : 0
                                 }
                               ],
@@ -925,9 +925,9 @@
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
-                                  "FONT:GothamSSm-Medium",
                                   "COLOR:rgb(127, 127, 127)",
-                                  "SIZE:38"
+                                  "SIZE:38",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "164",
@@ -958,7 +958,7 @@
                         "bottom" : null,
                         "height" : 45,
                         "opacity" : 1,
-                        "width" : 71,
+                        "width" : 62,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -1025,11 +1025,6 @@
                                     },
                                     {
                                       "length" : 8,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 8,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -1042,6 +1037,11 @@
                                       "length" : 8,
                                       "style" : "SIZE:14",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 8,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -1050,10 +1050,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(127, 127, 127)",
-                                      "SIZE:14"
+                                      "SIZE:14",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "Comments",
@@ -1221,11 +1221,6 @@
                             },
                             {
                               "length" : 186,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 186,
                               "style" : "LINEHEIGHT:1.7",
                               "offset" : 0
                             },
@@ -1238,6 +1233,11 @@
                               "length" : 186,
                               "style" : "SIZE:14",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 186,
+                              "style" : "FONT:Montserrat-Regular",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -1246,10 +1246,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "COLOR:rgb(127, 127, 127)",
-                              "SIZE:14"
+                              "SIZE:14",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "You may have seen the console warning about controlled fields needing an onChange handler and added one just to shut the warning up. If you replace your empty onChange handler functions.",
@@ -1352,11 +1352,6 @@
                                 },
                                 {
                                   "length" : 3,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 3,
                                   "style" : "LETTERSPACING:0",
                                   "offset" : 0
                                 },
@@ -1369,6 +1364,11 @@
                                   "length" : 3,
                                   "style" : "SIZE:38",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 3,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -1378,10 +1378,10 @@
                                 "emptyStyle" : [
                                   "ALIGN:center",
                                   "COLOR:rgb(127, 127, 127)",
-                                  "FONT:GothamSSm-Medium",
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
-                                  "SIZE:38"
+                                  "SIZE:38",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "245",
@@ -1412,7 +1412,7 @@
                         "bottom" : null,
                         "height" : 45,
                         "opacity" : 1,
-                        "width" : 77,
+                        "width" : 69,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -1501,11 +1501,6 @@
                                 },
                                 {
                                   "length" : 5,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 5,
                                   "style" : "LINEHEIGHT:1.7",
                                   "offset" : 0
                                 },
@@ -1518,6 +1513,11 @@
                                   "length" : 5,
                                   "style" : "SIZE:14",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 5,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -1526,10 +1526,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
-                                  "FONT:GothamSSm-Book",
                                   "LINEHEIGHT:1.7",
                                   "COLOR:rgb(127, 127, 127)",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "Views",
@@ -1997,7 +1997,7 @@
                       {
                         "__class" : "TextNode",
                         "locked" : false,
-                        "centerAnchorX" : 0.3899082568807339,
+                        "centerAnchorX" : 0.3669724770642202,
                         "parentid" : "a!Fe[9qN",
                         "rotation" : 0,
                         "top" : null,
@@ -2019,17 +2019,17 @@
                                 },
                                 {
                                   "length" : 7,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 7,
                                   "style" : "SIZE:12",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 7,
                                   "style" : "COLOR:rgb(242, 242, 242)",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 7,
+                                  "style" : "FONT:Montserrat-Regular",
                                   "offset" : 0
                                 }
                               ],
@@ -2040,9 +2040,9 @@
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
-                                  "FONT:GothamSSm-Medium",
                                   "SIZE:12",
-                                  "COLOR:rgb(242, 242, 242)"
+                                  "COLOR:rgb(242, 242, 242)",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "COURSES",
@@ -2073,13 +2073,13 @@
                         "bottom" : null,
                         "height" : 14,
                         "opacity" : 1,
-                        "width" : 65,
+                        "width" : 60,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
                         "editable" : false,
                         "visible" : true,
-                        "centerAnchorY" : 0.5,
+                        "centerAnchorY" : 0.4722222222222222,
                         "autoSize" : true,
                         "y" : 28
                       },
@@ -2297,12 +2297,12 @@
                                 },
                                 {
                                   "length" : 27,
-                                  "style" : "FONT:GothamSSm-Book",
+                                  "style" : "SIZE:14",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 27,
-                                  "style" : "SIZE:14",
+                                  "style" : "FONT:Montserrat-Regular",
                                   "offset" : 0
                                 }
                               ],
@@ -2315,8 +2315,8 @@
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(242, 242, 242)",
                                   "ALIGN:left",
-                                  "FONT:GothamSSm-Book",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : " What do you want to learn?",
@@ -2347,7 +2347,7 @@
                         "bottom" : null,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 210,
+                        "width" : 196,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -2472,17 +2472,17 @@
                             },
                             {
                               "length" : 7,
-                              "style" : "FONT:GothamSSm-Medium",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 7,
                               "style" : "ALIGN:right",
                               "offset" : 0
                             },
                             {
                               "length" : 7,
                               "style" : "SIZE:14",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 7,
+                              "style" : "FONT:Montserrat-Regular",
                               "offset" : 0
                             }
                           ],
@@ -2494,9 +2494,9 @@
                               "LETTERSPACING:0",
                               "LINEHEIGHT:1.2",
                               "COLOR:rgb(255, 255, 255)",
-                              "FONT:GothamSSm-Medium",
                               "ALIGN:right",
-                              "SIZE:14"
+                              "SIZE:14",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Sign in",
@@ -2527,7 +2527,7 @@
                     "bottom" : null,
                     "height" : 16,
                     "opacity" : 1,
-                    "width" : 52,
+                    "width" : 49,
                     "widthFactor" : null,
                     "targetName" : null,
                     "heightFactor" : null,
@@ -2604,17 +2604,17 @@
                                 },
                                 {
                                   "length" : 7,
-                                  "style" : "FONT:GothamSSm-Medium",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 7,
                                   "style" : "ALIGN:right",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 7,
                                   "style" : "SIZE:14",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 7,
+                                  "style" : "FONT:Montserrat-Regular",
                                   "offset" : 0
                                 }
                               ],
@@ -2626,9 +2626,9 @@
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(255, 255, 255)",
-                                  "FONT:GothamSSm-Medium",
                                   "ALIGN:right",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "Sign up",
@@ -2659,7 +2659,7 @@
                         "bottom" : null,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 58,
+                        "width" : 55,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -3112,17 +3112,17 @@
                             },
                             {
                               "length" : 26,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 26,
                               "style" : "SIZE:21",
                               "offset" : 0
                             },
                             {
                               "length" : 26,
                               "style" : "ALIGN:left",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 26,
+                              "style" : "FONT:Montserrat-Regular",
                               "offset" : 0
                             }
                           ],
@@ -3134,9 +3134,9 @@
                               "COLOR:#000000",
                               "LETTERSPACING:0",
                               "LINEHEIGHT:1.2",
-                              "FONT:GothamSSm-Book",
                               "SIZE:21",
-                              "ALIGN:left"
+                              "ALIGN:left",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Taking input from the user",
@@ -3167,7 +3167,7 @@
                     "bottom" : null,
                     "height" : 25,
                     "opacity" : 1,
-                    "width" : 292,
+                    "width" : 280,
                     "widthFactor" : null,
                     "targetName" : null,
                     "heightFactor" : null,
@@ -3293,11 +3293,6 @@
                                 },
                                 {
                                   "length" : 14,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 14,
                                   "style" : "LINEHEIGHT:1.7",
                                   "offset" : 0
                                 },
@@ -3310,6 +3305,11 @@
                                   "length" : 14,
                                   "style" : "SIZE:14",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 14,
+                                  "style" : "FONT:Montserrat-Regular",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -3318,10 +3318,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
-                                  "FONT:GothamSSm-Book",
                                   "LINEHEIGHT:1.7",
                                   "COLOR:rgb(0, 0, 0)",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Regular"
                                 ]
                               },
                               "text" : "Austin Bingham",
@@ -3382,11 +3382,6 @@
                                 },
                                 {
                                   "length" : 22,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 22,
                                   "style" : "LINEHEIGHT:1.7",
                                   "offset" : 0
                                 },
@@ -3399,6 +3394,11 @@
                                   "length" : 22,
                                   "style" : "SIZE:14",
                                   "offset" : 0
+                                },
+                                {
+                                  "length" : 22,
+                                  "style" : "FONT:Montserrat-Light",
+                                  "offset" : 0
                                 }
                               ],
                               "entityRanges" : [
@@ -3407,10 +3407,10 @@
                               "data" : {
                                 "emptyStyle" : [
                                   "LETTERSPACING:0",
-                                  "FONT:GothamSSm-Book",
                                   "LINEHEIGHT:1.7",
                                   "COLOR:rgb(130, 153, 170)",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Light"
                                 ]
                               },
                               "text" : "Aug 21, 2013 \/ 10m 37s",
@@ -3611,7 +3611,7 @@
                           {
                             "__class" : "TextNode",
                             "locked" : false,
-                            "centerAnchorX" : 0.890625,
+                            "centerAnchorX" : 0.984375,
                             "parentid" : "n_JP=P8$",
                             "rotation" : 0,
                             "top" : 2,
@@ -3638,12 +3638,12 @@
                                     },
                                     {
                                       "length" : 1,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "COLOR:rgb(249, 104, 22)",
                                       "offset" : 0
                                     },
                                     {
                                       "length" : 1,
-                                      "style" : "COLOR:rgb(249, 104, 22)",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -3655,8 +3655,8 @@
                                       "LETTERSPACING:0",
                                       "LINEHEIGHT:1.2",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium",
-                                      "COLOR:rgb(249, 104, 22)"
+                                      "COLOR:rgb(249, 104, 22)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "1",
@@ -3847,12 +3847,12 @@
                                     },
                                     {
                                       "length" : 2,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "COLOR:rgb(249, 104, 22)",
                                       "offset" : 0
                                     },
                                     {
                                       "length" : 2,
-                                      "style" : "COLOR:rgb(249, 104, 22)",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -3864,8 +3864,8 @@
                                       "LETTERSPACING:0",
                                       "LINEHEIGHT:1.2",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium",
-                                      "COLOR:rgb(249, 104, 22)"
+                                      "COLOR:rgb(249, 104, 22)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "14",
@@ -3896,7 +3896,7 @@
                             "bottom" : null,
                             "height" : 16,
                             "opacity" : 1,
-                            "width" : 17,
+                            "width" : 15,
                             "widthFactor" : null,
                             "targetName" : null,
                             "heightFactor" : null,
@@ -4179,7 +4179,7 @@
                                     },
                                     {
                                       "length" : 4,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -4192,7 +4192,7 @@
                                       "LINEHEIGHT:1.2",
                                       "COLOR:rgb(255, 255, 255)",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium"
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "PLAY",
@@ -4223,7 +4223,7 @@
                             "bottom" : null,
                             "height" : 16,
                             "opacity" : 1,
-                            "width" : 41,
+                            "width" : 37,
                             "widthFactor" : null,
                             "targetName" : null,
                             "heightFactor" : null,
@@ -4301,11 +4301,6 @@
                             },
                             {
                               "length" : 311,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 311,
                               "style" : "LINEHEIGHT:1.7",
                               "offset" : 0
                             },
@@ -4317,6 +4312,11 @@
                             {
                               "length" : 298,
                               "style" : "COLOR:rgb(113, 130, 142)",
+                              "offset" : 0
+                            },
+                            {
+                              "length" : 311,
+                              "style" : "FONT:Montserrat-Light",
                               "offset" : 0
                             },
                             {
@@ -4336,10 +4336,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "COLOR:rgb(130, 153, 170)",
-                              "SIZE:14"
+                              "SIZE:14",
+                              "FONT:Montserrat-Light"
                             ]
                           },
                           "text" : "To take input from the user, we can use a simple HTML form with an input and a button. Let's create a new React component, a class-based one this time, as we're going to eventually manage the forms state in there. It renders a simple HTML form, text input for the GitHub username to add to the list, … read more",
@@ -4434,12 +4434,12 @@
                         },
                         {
                           "length" : 26,
-                          "style" : "FONT:GothamSSm-Book",
+                          "style" : "SIZE:21",
                           "offset" : 0
                         },
                         {
                           "length" : 26,
-                          "style" : "SIZE:21",
+                          "style" : "FONT:Montserrat-Regular",
                           "offset" : 0
                         }
                       ],
@@ -4451,8 +4451,8 @@
                           "COLOR:#000000",
                           "LETTERSPACING:0",
                           "LINEHEIGHT:1.2",
-                          "FONT:GothamSSm-Book",
-                          "SIZE:21"
+                          "SIZE:21",
+                          "FONT:Montserrat-Regular"
                         ]
                       },
                       "text" : "onChange handler functions",
@@ -4483,7 +4483,7 @@
                 "bottom" : null,
                 "height" : 25,
                 "opacity" : 1,
-                "width" : 313,
+                "width" : 300,
                 "widthFactor" : null,
                 "targetName" : null,
                 "heightFactor" : null,
@@ -4609,11 +4609,6 @@
                             },
                             {
                               "length" : 15,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 15,
                               "style" : "LINEHEIGHT:1.7",
                               "offset" : 0
                             },
@@ -4626,6 +4621,11 @@
                               "length" : 15,
                               "style" : "SIZE:12",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 15,
+                              "style" : "FONT:Montserrat-Regular",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -4634,10 +4634,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "COLOR:rgb(49, 51, 56)",
-                              "SIZE:12"
+                              "SIZE:12",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Pluralsight.com",
@@ -4690,7 +4690,7 @@
                     "opacity" : 1,
                     "clip" : false,
                     "borderColor" : "#222",
-                    "left" : 139,
+                    "left" : 134,
                     "locked" : false,
                     "radius" : 0,
                     "boxShadows" : [
@@ -4704,7 +4704,7 @@
                         "blur" : 5
                       }
                     ],
-                    "centerAnchorX" : 0.179471032745592,
+                    "centerAnchorX" : 0.1731738035264484,
                     "borderPerSide" : false,
                     "radiusBottomRight" : 0,
                     "children" : [
@@ -4727,7 +4727,7 @@
                     "constraintsLocked" : false,
                     "right" : null,
                     "radiusPerCorner" : false,
-                    "centerAnchorY" : 0.5,
+                    "centerAnchorY" : 0.54,
                     "visible" : true,
                     "borderLeft" : 1,
                     "heightFactor" : null,
@@ -4740,7 +4740,7 @@
                   {
                     "__class" : "TextNode",
                     "locked" : false,
-                    "centerAnchorX" : 0.3268261964735517,
+                    "centerAnchorX" : 0.3192695214105793,
                     "parentid" : "GXhpW@oH",
                     "rotation" : 0,
                     "top" : 3,
@@ -4757,11 +4757,6 @@
                             },
                             {
                               "length" : 34,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 34,
                               "style" : "LINEHEIGHT:1.7",
                               "offset" : 0
                             },
@@ -4774,6 +4769,11 @@
                               "length" : 34,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 34,
+                              "style" : "FONT:Montserrat-Regular",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -4782,10 +4782,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "SIZE:12",
-                              "COLOR:rgb(113, 130, 142)"
+                              "COLOR:rgb(113, 130, 142)",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Course: React.js: Getting Started ",
@@ -4812,7 +4812,7 @@
                     "id" : "+(gg)^:_",
                     "x" : 91,
                     "constraintsLocked" : false,
-                    "left" : 154,
+                    "left" : 148,
                     "bottom" : 2,
                     "height" : 20,
                     "opacity" : 1,
@@ -4829,11 +4829,11 @@
                   {
                     "__class" : "TextNode",
                     "locked" : false,
-                    "centerAnchorX" : 0.5988664987405542,
+                    "centerAnchorX" : 0.5610831234256927,
                     "parentid" : "GXhpW@oH",
                     "rotation" : 0,
                     "top" : 3,
-                    "right" : 231,
+                    "right" : 261,
                     "styledText" : {
                       "blocks" : [
                         {
@@ -4842,11 +4842,6 @@
                             {
                               "length" : 25,
                               "style" : "LETTERSPACING:0",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 25,
-                              "style" : "FONT:GothamSSm-Book",
                               "offset" : 0
                             },
                             {
@@ -4863,6 +4858,11 @@
                               "length" : 25,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 25,
+                              "style" : "FONT:Montserrat-Regular",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -4871,10 +4871,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "SIZE:12",
-                              "COLOR:rgb(113, 130, 142)"
+                              "COLOR:rgb(113, 130, 142)",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Module: Working with Data",
@@ -4927,7 +4927,7 @@
                     "opacity" : 1,
                     "clip" : false,
                     "borderColor" : "#222",
-                    "left" : 373,
+                    "left" : 344,
                     "locked" : false,
                     "radius" : 0,
                     "boxShadows" : [
@@ -4941,7 +4941,7 @@
                         "blur" : 5
                       }
                     ],
-                    "centerAnchorX" : 0.4741813602015114,
+                    "centerAnchorX" : 0.4376574307304786,
                     "borderPerSide" : false,
                     "radiusBottomRight" : 0,
                     "children" : [
@@ -4964,7 +4964,7 @@
                     "constraintsLocked" : false,
                     "right" : null,
                     "radiusPerCorner" : false,
-                    "centerAnchorY" : 0.5,
+                    "centerAnchorY" : 0.54,
                     "visible" : true,
                     "borderLeft" : 1,
                     "heightFactor" : null,
@@ -4977,11 +4977,11 @@
                   {
                     "__class" : "TextNode",
                     "locked" : false,
-                    "centerAnchorX" : 0.8696473551637279,
+                    "centerAnchorX" : 0.8154911838790933,
                     "parentid" : "GXhpW@oH",
                     "rotation" : 0,
                     "top" : 3,
-                    "right" : 0,
+                    "right" : 43,
                     "styledText" : {
                       "blocks" : [
                         {
@@ -4990,11 +4990,6 @@
                             {
                               "length" : 32,
                               "style" : "LETTERSPACING:0",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 32,
-                              "style" : "FONT:GothamSSm-Book",
                               "offset" : 0
                             },
                             {
@@ -5011,6 +5006,11 @@
                               "length" : 32,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 32,
+                              "style" : "FONT:Montserrat-Regular",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -5019,10 +5019,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "LINEHEIGHT:1.7",
                               "SIZE:12",
-                              "COLOR:rgb(113, 130, 142)"
+                              "COLOR:rgb(113, 130, 142)",
+                              "FONT:Montserrat-Regular"
                             ]
                           },
                           "text" : "Clip: Taking Input from the User",
@@ -5089,7 +5089,7 @@
                         "blur" : 5
                       }
                     ],
-                    "centerAnchorX" : 0.7222921914357683,
+                    "centerAnchorX" : 0.6719143576826196,
                     "borderPerSide" : false,
                     "radiusBottomRight" : 0,
                     "children" : [
@@ -5110,9 +5110,9 @@
                     "originalFilename" : "",
                     "borderEnabled" : false,
                     "constraintsLocked" : false,
-                    "right" : 217,
+                    "right" : 257,
                     "radiusPerCorner" : false,
-                    "centerAnchorY" : 0.5,
+                    "centerAnchorY" : 0.54,
                     "visible" : true,
                     "borderLeft" : 1,
                     "heightFactor" : null,
@@ -7581,11 +7581,11 @@
                           {
                             "__class" : "TextNode",
                             "locked" : false,
-                            "centerAnchorX" : 0.890625,
+                            "centerAnchorX" : 0.984375,
                             "parentid" : "O(c{fq88",
                             "rotation" : 0,
                             "top" : null,
-                            "right" : 0,
+                            "right" : -3,
                             "styledText" : {
                               "blocks" : [
                                 {
@@ -7608,12 +7608,12 @@
                                     },
                                     {
                                       "length" : 1,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "COLOR:rgb(249, 104, 22)",
                                       "offset" : 0
                                     },
                                     {
                                       "length" : 1,
-                                      "style" : "COLOR:rgb(249, 104, 22)",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -7625,8 +7625,8 @@
                                       "LETTERSPACING:0",
                                       "LINEHEIGHT:1.2",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium",
-                                      "COLOR:rgb(249, 104, 22)"
+                                      "COLOR:rgb(249, 104, 22)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "1",
@@ -7817,12 +7817,12 @@
                                     },
                                     {
                                       "length" : 2,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "COLOR:rgb(249, 104, 22)",
                                       "offset" : 0
                                     },
                                     {
                                       "length" : 2,
-                                      "style" : "COLOR:rgb(249, 104, 22)",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -7834,8 +7834,8 @@
                                       "LETTERSPACING:0",
                                       "LINEHEIGHT:1.2",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium",
-                                      "COLOR:rgb(249, 104, 22)"
+                                      "COLOR:rgb(249, 104, 22)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "14",
@@ -7866,7 +7866,7 @@
                             "bottom" : null,
                             "height" : 16,
                             "opacity" : 1,
-                            "width" : 17,
+                            "width" : 15,
                             "widthFactor" : null,
                             "targetName" : null,
                             "heightFactor" : null,
@@ -8149,7 +8149,7 @@
                                     },
                                     {
                                       "length" : 4,
-                                      "style" : "FONT:GothamSSm-Medium",
+                                      "style" : "FONT:Montserrat-Regular",
                                       "offset" : 0
                                     }
                                   ],
@@ -8162,7 +8162,7 @@
                                       "LINEHEIGHT:1.2",
                                       "COLOR:rgb(255, 255, 255)",
                                       "SIZE:14",
-                                      "FONT:GothamSSm-Medium"
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "COPY",
@@ -8193,7 +8193,7 @@
                             "bottom" : null,
                             "height" : 16,
                             "opacity" : 1,
-                            "width" : 45,
+                            "width" : 41,
                             "widthFactor" : null,
                             "targetName" : null,
                             "heightFactor" : null,
@@ -8366,12 +8366,12 @@
                         },
                         {
                           "length" : 50,
-                          "style" : "FONT:GothamSSm-Book",
+                          "style" : "SIZE:21",
                           "offset" : 0
                         },
                         {
                           "length" : 50,
-                          "style" : "SIZE:21",
+                          "style" : "FONT:Montserrat-Regular",
                           "offset" : 0
                         }
                       ],
@@ -8383,8 +8383,8 @@
                           "COLOR:#000000",
                           "LETTERSPACING:0",
                           "LINEHEIGHT:1.2",
-                          "FONT:GothamSSm-Book",
-                          "SIZE:21"
+                          "SIZE:21",
+                          "FONT:Montserrat-Regular"
                         ]
                       },
                       "text" : "More on “onChange handler function” in Pluralsight",
@@ -8415,7 +8415,7 @@
                 "bottom" : null,
                 "height" : 25,
                 "opacity" : 1,
-                "width" : 568,
+                "width" : 537,
                 "widthFactor" : null,
                 "targetName" : null,
                 "heightFactor" : null,
@@ -8736,11 +8736,6 @@
                                     },
                                     {
                                       "length" : 17,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 17,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -8753,6 +8748,11 @@
                                       "length" : 17,
                                       "style" : "SIZE:10",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 17,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -8761,10 +8761,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:10"
+                                      "SIZE:10",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "8.21.13 \/ 3 Lines",
@@ -8825,11 +8825,6 @@
                                     },
                                     {
                                       "length" : 13,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 13,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -8842,6 +8837,11 @@
                                       "length" : 13,
                                       "style" : "COLOR:rgb(49, 51, 56)",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 13,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -8850,10 +8850,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "SIZE:12",
-                                      "COLOR:rgb(49, 51, 56)"
+                                      "COLOR:rgb(49, 51, 56)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "Greg Bertoldo",
@@ -9213,11 +9213,6 @@
                                     },
                                     {
                                       "length" : 3,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 3,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -9230,6 +9225,11 @@
                                       "length" : 3,
                                       "style" : "SIZE:12",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 3,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -9238,10 +9238,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:12"
+                                      "SIZE:12",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "569",
@@ -9350,11 +9350,6 @@
                             },
                             {
                               "length" : 67,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 67,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
                             },
@@ -9367,6 +9362,11 @@
                               "length" : 67,
                               "style" : "LINEHEIGHT:1.4",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 67,
+                              "style" : "FONT:Montserrat-Light",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -9375,10 +9375,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "COLOR:rgb(113, 130, 142)",
                               "SIZE:16",
-                              "LINEHEIGHT:1.4"
+                              "LINEHEIGHT:1.4",
+                              "FONT:Montserrat-Light"
                             ]
                           },
                           "text" : "App is changing an uncontrolled input of type text to be controlled",
@@ -9486,17 +9486,17 @@
                                 },
                                 {
                                   "length" : 5,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 5,
                                   "style" : "SIZE:14",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 5,
                                   "style" : "ALIGN:left",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 5,
+                                  "style" : "FONT:Montserrat-Light",
                                   "offset" : 0
                                 }
                               ],
@@ -9508,9 +9508,9 @@
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(255, 0, 80)",
-                                  "FONT:GothamSSm-Book",
                                   "SIZE:14",
-                                  "ALIGN:left"
+                                  "ALIGN:left",
+                                  "FONT:Montserrat-Light"
                                 ]
                               },
                               "text" : "ERROR",
@@ -9541,7 +9541,7 @@
                         "bottom" : 3,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 56,
+                        "width" : 52,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -9883,17 +9883,17 @@
                                 },
                                 {
                                   "length" : 4,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 4,
                                   "style" : "SIZE:14",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 4,
                                   "style" : "ALIGN:left",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 4,
+                                  "style" : "FONT:Montserrat-Light",
                                   "offset" : 0
                                 }
                               ],
@@ -9905,9 +9905,9 @@
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(255, 0, 80)",
-                                  "FONT:GothamSSm-Book",
                                   "SIZE:14",
-                                  "ALIGN:left"
+                                  "ALIGN:left",
+                                  "FONT:Montserrat-Light"
                                 ]
                               },
                               "text" : "CLIP",
@@ -9938,7 +9938,7 @@
                         "bottom" : null,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 36,
+                        "width" : 32,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -10125,11 +10125,6 @@
                                     },
                                     {
                                       "length" : 15,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 15,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -10142,6 +10137,11 @@
                                       "length" : 15,
                                       "style" : "SIZE:10",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 15,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -10150,10 +10150,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:10"
+                                      "SIZE:10",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "6.6.13 \/ 8m 27m",
@@ -10214,11 +10214,6 @@
                                     },
                                     {
                                       "length" : 14,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 14,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -10231,6 +10226,11 @@
                                       "length" : 14,
                                       "style" : "COLOR:rgb(49, 51, 56)",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 14,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -10239,10 +10239,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "SIZE:12",
-                                      "COLOR:rgb(49, 51, 56)"
+                                      "COLOR:rgb(49, 51, 56)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "Austin Bingham",
@@ -10602,11 +10602,6 @@
                                     },
                                     {
                                       "length" : 4,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 4,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -10619,6 +10614,11 @@
                                       "length" : 4,
                                       "style" : "SIZE:12",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 4,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -10627,10 +10627,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:12"
+                                      "SIZE:12",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "5.2k",
@@ -10739,11 +10739,6 @@
                             },
                             {
                               "length" : 30,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 30,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
                             },
@@ -10756,6 +10751,11 @@
                               "length" : 30,
                               "style" : "LINEHEIGHT:1.4",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 30,
+                              "style" : "FONT:Montserrat-Light",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -10764,10 +10764,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "COLOR:rgb(113, 130, 142)",
                               "SIZE:16",
-                              "LINEHEIGHT:1.4"
+                              "LINEHEIGHT:1.4",
+                              "FONT:Montserrat-Light"
                             ]
                           },
                           "text" : "Time Span and Duration Formats",
@@ -11116,17 +11116,17 @@
                                 },
                                 {
                                   "length" : 4,
-                                  "style" : "FONT:GothamSSm-Book",
-                                  "offset" : 0
-                                },
-                                {
-                                  "length" : 4,
                                   "style" : "SIZE:14",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 4,
                                   "style" : "ALIGN:left",
+                                  "offset" : 0
+                                },
+                                {
+                                  "length" : 4,
+                                  "style" : "FONT:Montserrat-Light",
                                   "offset" : 0
                                 }
                               ],
@@ -11138,9 +11138,9 @@
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(255, 0, 80)",
-                                  "FONT:GothamSSm-Book",
                                   "SIZE:14",
-                                  "ALIGN:left"
+                                  "ALIGN:left",
+                                  "FONT:Montserrat-Light"
                                 ]
                               },
                               "text" : "CODE",
@@ -11171,7 +11171,7 @@
                         "bottom" : null,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 46,
+                        "width" : 43,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -11358,11 +11358,6 @@
                                     },
                                     {
                                       "length" : 20,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 20,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -11375,6 +11370,11 @@
                                       "length" : 20,
                                       "style" : "SIZE:10",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 20,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -11383,10 +11383,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:10"
+                                      "SIZE:10",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "5.12.17 \/ 88 commits",
@@ -11447,11 +11447,6 @@
                                     },
                                     {
                                       "length" : 11,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 11,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -11464,6 +11459,11 @@
                                       "length" : 11,
                                       "style" : "COLOR:rgb(49, 51, 56)",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 11,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -11472,10 +11472,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "SIZE:12",
-                                      "COLOR:rgb(49, 51, 56)"
+                                      "COLOR:rgb(49, 51, 56)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "buildo Repo",
@@ -11835,11 +11835,6 @@
                                     },
                                     {
                                       "length" : 4,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 4,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -11852,6 +11847,11 @@
                                       "length" : 4,
                                       "style" : "SIZE:12",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 4,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -11860,10 +11860,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:12"
+                                      "SIZE:12",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "1.2k",
@@ -11972,11 +11972,6 @@
                             },
                             {
                               "length" : 35,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 35,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
                             },
@@ -11989,6 +11984,11 @@
                               "length" : 35,
                               "style" : "LINEHEIGHT:1.4",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 35,
+                              "style" : "FONT:Montserrat-Light",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -11997,10 +11997,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "COLOR:rgb(113, 130, 142)",
                               "SIZE:16",
-                              "LINEHEIGHT:1.4"
+                              "LINEHEIGHT:1.4",
+                              "FONT:Montserrat-Light"
                             ]
                           },
                           "text" : "Rendering array of react components",
@@ -12408,12 +12408,12 @@
                                 },
                                 {
                                   "length" : 5,
-                                  "style" : "FONT:GothamSSm-Book",
+                                  "style" : "SIZE:14",
                                   "offset" : 0
                                 },
                                 {
                                   "length" : 5,
-                                  "style" : "SIZE:14",
+                                  "style" : "FONT:Montserrat-Light",
                                   "offset" : 0
                                 }
                               ],
@@ -12425,8 +12425,8 @@
                                   "LETTERSPACING:0",
                                   "LINEHEIGHT:1.2",
                                   "COLOR:rgb(255, 0, 80)",
-                                  "FONT:GothamSSm-Book",
-                                  "SIZE:14"
+                                  "SIZE:14",
+                                  "FONT:Montserrat-Light"
                                 ]
                               },
                               "text" : "PATHS",
@@ -12457,7 +12457,7 @@
                         "bottom" : null,
                         "height" : 16,
                         "opacity" : 1,
-                        "width" : 51,
+                        "width" : 47,
                         "widthFactor" : null,
                         "targetName" : null,
                         "heightFactor" : null,
@@ -12644,11 +12644,6 @@
                                     },
                                     {
                                       "length" : 15,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 15,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -12661,6 +12656,11 @@
                                       "length" : 15,
                                       "style" : "SIZE:10",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 15,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -12669,10 +12669,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:10"
+                                      "SIZE:10",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "8.21.13 \/ 5h 4m",
@@ -12733,11 +12733,6 @@
                                     },
                                     {
                                       "length" : 14,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 14,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -12750,6 +12745,11 @@
                                       "length" : 14,
                                       "style" : "COLOR:rgb(49, 51, 56)",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 14,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -12758,10 +12758,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "SIZE:12",
-                                      "COLOR:rgb(49, 51, 56)"
+                                      "COLOR:rgb(49, 51, 56)",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "Austin Bingham",
@@ -13121,11 +13121,6 @@
                                     },
                                     {
                                       "length" : 5,
-                                      "style" : "FONT:GothamSSm-Book",
-                                      "offset" : 0
-                                    },
-                                    {
-                                      "length" : 5,
                                       "style" : "LINEHEIGHT:1.7",
                                       "offset" : 0
                                     },
@@ -13138,6 +13133,11 @@
                                       "length" : 5,
                                       "style" : "SIZE:12",
                                       "offset" : 0
+                                    },
+                                    {
+                                      "length" : 5,
+                                      "style" : "FONT:Montserrat-Regular",
+                                      "offset" : 0
                                     }
                                   ],
                                   "entityRanges" : [
@@ -13146,10 +13146,10 @@
                                   "data" : {
                                     "emptyStyle" : [
                                       "LETTERSPACING:0",
-                                      "FONT:GothamSSm-Book",
                                       "LINEHEIGHT:1.7",
                                       "COLOR:rgb(113, 130, 142)",
-                                      "SIZE:12"
+                                      "SIZE:12",
+                                      "FONT:Montserrat-Regular"
                                     ]
                                   },
                                   "text" : "21.3k",
@@ -13258,11 +13258,6 @@
                             },
                             {
                               "length" : 18,
-                              "style" : "FONT:GothamSSm-Book",
-                              "offset" : 0
-                            },
-                            {
-                              "length" : 18,
                               "style" : "COLOR:rgb(113, 130, 142)",
                               "offset" : 0
                             },
@@ -13275,6 +13270,11 @@
                               "length" : 18,
                               "style" : "LINEHEIGHT:1.4",
                               "offset" : 0
+                            },
+                            {
+                              "length" : 18,
+                              "style" : "FONT:Montserrat-Light",
+                              "offset" : 0
                             }
                           ],
                           "entityRanges" : [
@@ -13283,10 +13283,10 @@
                           "data" : {
                             "emptyStyle" : [
                               "LETTERSPACING:0",
-                              "FONT:GothamSSm-Book",
                               "COLOR:rgb(113, 130, 142)",
                               "SIZE:16",
-                              "LINEHEIGHT:1.4"
+                              "LINEHEIGHT:1.4",
+                              "FONT:Montserrat-Light"
                             ]
                           },
                           "text" : "React Fundamentals",
