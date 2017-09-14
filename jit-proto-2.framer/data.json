@@ -1,0 +1,73 @@
+{
+  "searchPhrase": "React input won't accept keystroke",
+  "customResults": [
+    {
+      "id": "python-datetime-code",
+      "title": "Why doesn't my React JS form accept user input? (Code)",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+code",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+    },
+    {
+      "id": "python-datetime-clip",
+      "title": "How do I get datetime in Python (Clip)",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+clip",
+      "description": "Jan 23, 2017 - The year month and day arguments are required. tzinfo may be None, or an instance of a tzinfo subclass. The remaining arguments may be..."
+    }
+  ],
+  "results": [
+    {
+      "title": "reactjs - Why doesn't my React Js form accept user input? - Stack ...",
+      "link": "https://stackoverflow.com/questions/33851508/why-doesnt-my-react-js-form-accept-user-input",
+      "description": "It looks like you saw the console warning about controlled fields needing an \nonChange handler and added one just to shut the warning up :).",
+      "href": "https://stackoverflow.com/questions/33851508/why-doesnt-my-react-js-form-accept-user-input"
+    },
+    {
+      "id": "python-datetime-code",
+      "title": "Why doesn't my React JS form accept user input?",
+      "link": "https://www.pluralsight.com/.../Why+doesn%27t+my+React+JS+form+accept+user+input+code",
+      "description": "Jan 23, 2017 - You may have seen the console warning about controlled fields needing an onChange handler and added one just to shut the warning up..."
+    },
+    {
+      "title": "javascript - KeyPress event handling in reactJs - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/27827234/keypress-event-handling-in-reactjs",
+      "description": "Jan 7, 2015 ... I am working with React 0.14.7, use onKeyPress and event.key works well. ... \nrender: function(){ return( <div> <input type=\"text\" id=\"one\" ...",
+      "href": "https://stackoverflow.com/questions/27827234/keypress-event-handling-in-reactjs"
+    },
+    {
+      "title": "reactjs - Enter key event handler on react-bootstrap Input component ...",
+      "link": "https://stackoverflow.com/questions/34223558/enter-key-event-handler-on-react-bootstrap",
+      "description": "Dec 11, 2015 ... I think this question is related to React itself instead of react-bootstrap. Look at \nthis for some basics about React event system: ...",
+      "href": "https://stackoverflow.com/questions/34223558/enter-key-event-handler-on-react-bootstrap-input-component"
+    },
+    {
+      "title": "Cursor jumps to end of controlled input · Issue #955 · facebook/react ...",
+      "link": "https://github.com/facebook/react/issues/955",
+      "description": "Jan 23, 2014 ... @tsheaff If you ask me, having an input that also accepts a selection ... each \nkeystroke, instead of letting PersistentCharacterStore defer the publication of its \nstate change. ... Cursor jumps to the end of textarea effektif/react-mentions#106 ... \nyou may only add spaces and won't change line count generally.",
+      "href": "https://github.com/facebook/react/issues/955"
+    },
+    {
+      "title": "Managing state and controlled form fields with React | Ian Sinnott",
+      "link": "https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/",
+      "description": "May 11, 2015 ... React.createClass({ render ( <input type='text' value=\"You can't change me! ... It's \na shortcut for telling an input where to get its value prop from and what .... and \nignoring the deprecation warnings, but this won't work forever.",
+      "href": "https://blog.iansinnott.com/managing-state-and-controlled-form-fields-with-react/"
+    },
+    {
+      "title": "How to pass in initial value to form fields? - React Discuss",
+      "link": "https://discuss.reactjs.org/t/how-to-pass-in-initial-value-to-form-fields/869",
+      "description": "Jul 17, 2015 ... The input form is the same for initial entry and editing. I don't ... using the only-\nused-on-initial-render defaultValue attribute won't work. .... penalty: every \nkeystroke (unless throttled) makes a 'round trip' from the form input to the ...",
+      "href": "https://discuss.reactjs.org/t/how-to-pass-in-initial-value-to-form-fields/869"
+    },
+    {
+      "title": "Learn React.js: Ridiculously Simple Forms - James K Nelson",
+      "link": "http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/",
+      "description": "Sep 20, 2015 ... Tools like react-forms and formsy-react and flux and redux and RxJS and as one \nredditor put it: ... Gathering keystrokes from an <input> element is accomplished \nby ..... People won't buy your product unless they understand it.",
+      "href": "http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/"
+    },
+    {
+      "title": "Visual Studio stops responding to Keyboard Input | Microsoft Connect",
+      "link": "https://connect.microsoft.com/VisualStudio/feedback/details/641783/visual-studio-stops-responding-to-keyboard-input",
+      "description": "Occasionally Visual Studio 2010 will stop responding to most keyboard input. ..... \nwon't accept any keyboard input - I can't use F10 or type anything, all I can to is \nclick with the ... There are so many shortcut keys in Visual Studio, that it's easy to\n ...",
+      "href": "https://connect.microsoft.com/VisualStudio/feedback/details/641783/visual-studio-stops-responding-to-keyboard-input"
+    }
+  ]
+}
