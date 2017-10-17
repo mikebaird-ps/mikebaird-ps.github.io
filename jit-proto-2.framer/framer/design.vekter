@@ -10800,12 +10800,12 @@
                                     },
                                     {
                                       "length" : 5,
-                                      "style" : "FONT:Montserrat-Regular",
+                                      "style" : "SIZE:18",
                                       "offset" : 0
                                     },
                                     {
                                       "length" : 5,
-                                      "style" : "SIZE:18",
+                                      "style" : "FONT:HelveticaNeue",
                                       "offset" : 0
                                     }
                                   ],
@@ -10817,8 +10817,8 @@
                                       "LETTERSPACING:0",
                                       "LINEHEIGHT:1.2",
                                       "COLOR:rgb(255, 255, 255)",
-                                      "FONT:Montserrat-Regular",
-                                      "SIZE:18"
+                                      "SIZE:18",
+                                      "FONT:HelveticaNeue"
                                     ]
                                   },
                                   "text" : "10:37",
@@ -10849,7 +10849,7 @@
                             "bottom" : null,
                             "height" : 21,
                             "opacity" : 1,
-                            "width" : 45,
+                            "width" : 47,
                             "widthFactor" : null,
                             "targetName" : null,
                             "heightFactor" : null,
