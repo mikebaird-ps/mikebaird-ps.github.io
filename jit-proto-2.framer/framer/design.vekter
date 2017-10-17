@@ -10364,27 +10364,27 @@
                               "depth" : 0,
                               "inlineStyleRanges" : [
                                 {
-                                  "length" : 18,
+                                  "length" : 5,
                                   "style" : "LETTERSPACING:0",
                                   "offset" : 0
                                 },
                                 {
-                                  "length" : 18,
+                                  "length" : 5,
                                   "style" : "COLOR:rgb(113, 130, 142)",
                                   "offset" : 0
                                 },
                                 {
-                                  "length" : 18,
+                                  "length" : 5,
                                   "style" : "SIZE:16",
                                   "offset" : 0
                                 },
                                 {
-                                  "length" : 18,
+                                  "length" : 5,
                                   "style" : "LINEHEIGHT:1.4",
                                   "offset" : 0
                                 },
                                 {
-                                  "length" : 18,
+                                  "length" : 5,
                                   "style" : "FONT:HelveticaNeue",
                                   "offset" : 0
                                 }
@@ -10401,7 +10401,7 @@
                                   "FONT:HelveticaNeue"
                                 ]
                               },
-                              "text" : "React Fundamentals",
+                              "text" : "React",
                               "key" : "81s4n",
                               "type" : "unstyled"
                             }
