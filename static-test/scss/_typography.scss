@@ -1,0 +1,40 @@
+$main-type:GothamSSm-Book  !important;
+$main-type-light:GothamSSm-light  !important;
+
+.question h1 {
+  font-family: $main-type;
+  font-size: 36px !important;
+  color: $light-gray !important;
+}
+
+.answer h1 {
+  font-family: $main-type;
+  font-size: 36px !important;
+  color: $black !important;
+  text-align: left;
+}
+
+.question h3 {
+  color: $light-gray;
+}
+
+.answer h3 {
+  color: $black;
+}
+
+
+p {
+  font-family: $main-type-light;
+  font-size: 16px;
+  line-height: 2.1em;
+}
+
+.question article p {
+  color: $light-gray;
+
+}
+
+.answer article p {
+  color: $black;
+
+}

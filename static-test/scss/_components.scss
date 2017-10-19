@@ -1,0 +1,45 @@
+//Search
+input[type=text] {
+    display: flex;
+    align-self: flex-start;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    font-family: $main-type-light;
+    font-size: 21px !important;
+    font-weight: 100;
+    color: #FFFFFF;
+    background-color: $black;
+    background-image: url('../img/searchicon.png');
+    background-position: 5px 8px;
+    background-repeat: no-repeat;
+    padding: 6px 20px 6px 56px;
+    // -webkit-transition: width 0.4s ease-in-out;
+    // transition: width 0.4s ease-in-out;
+}
+
+//Nav Buttons
+.btn {
+  font-family: $main-type;
+  color: $white !important;
+}
+.btn-primary.signup {
+  background: $orange;
+  border-color: $orange !important;
+  padding: 10px 20px !important;
+  align-items: center;
+}
+.btn-default.signin {
+  background-color: transparent;
+  border-color: $black;
+  padding: 10px 20px !important;
+  align-items: center;
+}
+.btn-primary.signup:hover, .btn-primary.signup:focus  {
+  background-color: rgba(255, 77, 0, 0.7) !important;
+  border-color: rgba(255, 77, 0, 0.7) !important;
+}
+.btn-default.signin:hover, .btn-default.signin:focus {
+  background-color: rgba(34, 35, 39, 100) !important;
+  border-color: rgba(34, 35, 39, 100) !important;
+}

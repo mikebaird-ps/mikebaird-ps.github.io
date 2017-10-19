@@ -1,38 +1,71 @@
 <!DOCTYPE html>
 <html>
 
-	<head>
-		<meta charset='UTF-8'>
-		<meta name='keywords' content='your, tags'>
-		<meta name='description' content='150 words'>
-		<meta name='subject' content='subject'>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel='shortcut icon' type='image/ico' href='/favicon.ico'>
-		<link rel="stylesheet" type="text/css" href="css/main.css">
+<head>
+	<meta charset='UTF-8'>
+	<meta name='keywords' content='your, tags'>
+	<meta name='description' content='150 words'>
+	<meta name='subject' content='subject'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel='shortcut icon' type='image/ico' href='/favicon.ico'>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 
-		<!--Bootstrap-->
-		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<!--Bootstrap-->
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-		<!--Font Awesome-->
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+	<!--Font Awesome-->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
-		<!--Jquery-->
-		<script src="https://code.jquery.com/jquery-3.1.0.js" integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk=" crossorigin="anonymous"></script>
+	<!--Jquery-->
+	<script src="https://code.jquery.com/jquery-3.1.0.js" integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk=" crossorigin="anonymous"></script>
 
 
-		<title>Title of the document</title>
-	</head>
+	<title>[Title]</title>
+</head>
 
-	<body>
+<body>
+<!--Question-->
+	<div class="wrapper question">
+		<header class="header">
+			<div class="header-buttons pull-right">
+				<button type="button" class="btn btn-default signin">Sign In</button>
+				<button type="button" class="btn btn-primary signup">Sign Up</button>
+			</div>
+			<form action="">
+				<input type="text" id="fname" name="fname" value="Search Term Here">
+				</select>
+			</form>
 
-		<nav>...</nav>
+		</header>
+		<div class="gradient-border"></div>
+			<article class="main">
+				<h1>Why doesn't my React JS form accept user input?</h1>
+				<div class="answer-container">
+					<h3>January 21, 2017</h3>
+					<p>I have a simple search bar (controlled text input) with autocomplete. When I type text very quickly, I do get onKeyDown events, but every now and then, the corresponding onChange event goes missing. For example, if I type "foobar", the input field may end up showing "foobr". This happens only on IE (tested with IE11 on Windows 7), and I have not seen this on any other browser.
+</p>
+					</div>
+			</article>
+			<aside class="aside aside-1">Aside 1</aside>
+			<aside class="aside aside-2">Aside 2</aside>
+	</div>
 
-		<header>...</header>
+	<!--Answers -->
+	<div class="wrapper answer">
+			<article class="main">
+				<h1>6 Answers</h1>
+				<div class="answer-container">
+					<h3>January 21, 2017</h3>
+					<p>The topic of passing a value prop to an "input", and then somehow changing the value passed in response to user interaction using an onChange handler is pretty well-considered in the official docs.
 
-		<main>...</main>
+They refer to such inputs as Controlled Components, and refer to inputs that instead let the DOM natively handle the input's value and subsequent changes from the user as Uncontrolled Components.</p>
+				</div>
+			</article>
+			<aside class="aside aside-1">Aside 1</aside>
+			<aside class="aside aside-2">Aside 2</aside>
+			<footer class="footer">Footer</footer>
+	</div>
+</body>
 
-		<footer>...</footer>
-
-	</body>
-</html> 
+</html>
