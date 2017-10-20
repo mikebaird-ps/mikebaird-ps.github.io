@@ -2,17 +2,17 @@ $main-type:GothamSSm-Book  !important;
 $main-type-light:GothamSSm-light  !important;
 
 .question h1 {
-  font-family: $main-type;
+  font-family: $main-type-light;
   font-size: 36px !important;
   color: $light-gray !important;
-  margin-top: 50px;
+  margin: 50px 0 40px 0;
 }
 
-.answer h1 {
-  font-family: $main-type;
+.answer h2 {
+  font-family: $main-type-light;
   font-size: 36px !important;
   color: $black !important;
-  text-align: left;
+  text-align: center;
   margin-top: 50px;
 }
 h3 {
@@ -21,7 +21,7 @@ h3 {
 .question h3 {
   color: $white;
   font-family: $main-type-light;
-  font-size: 14px;
+  font-size: 16px;
   margin: 10px 0px 15px 0px;
   letter-spacing: -0.42px;
 }
@@ -29,7 +29,9 @@ h3 {
 .answer h3 {
   color: $black;
   font-family: $main-type-light;
-  font-size: 14px;
+  font-size: 16px;
+  margin: 10px 0px 15px 0px;
+  letter-spacing: -0.42px;
 }
 
 
@@ -48,4 +50,86 @@ p {
 .answer article p {
   color: $black;
 
+}
+.question aside.aside h2 {
+  font-size: 14px !important;
+  font-family: $main-type;
+  color: #FCFCFC !important;
+  text-align: center !important;
+  margin: 0px 0px 0px 0px !important;
+}
+.question aside.aside h3 {
+  font-size: 12px !important;
+  font-family: $main-type-light;
+  color: #FCFCFC !important;
+  text-align: center !important;
+  background-image: url('../img/React-icon.png');
+  background-position: 22px 2px;
+  background-repeat: no-repeat;
+  padding: 4px 0px 4px 10px;
+  margin: 5px 0px 7px 0px ;
+}
+
+.answer aside.aside h2 {
+  font-size: 14px !important;
+  font-family: $main-type;
+  color: $black;
+  text-align: center !important;
+  margin: 0px 0px 0px 0px !important;
+}
+.answer aside.aside h3 {
+  font-size: 12px !important;
+  font-family: $main-type-light;
+  color: $gray-blue;
+  text-align: center !important;
+  padding: 4px 0px 4px 0px;
+  margin: 5px 0px 7px 0px ;
+}
+
+.answer .answer-container h2.clip-header {
+font-family: GothamSSm-Book !important;
+font-size: 21px !important;
+color: #000000 !important;
+text-align: left;
+background-image: url('../img/icon-play.png');
+background-position: 0px 3px;
+background-repeat: no-repeat;
+padding: 4px 0px 4px 35px;
+margin: 5px 0px 7px 0px ;
+}
+
+p.video-details {
+  padding: 0 0 0 35px;
+  margin: 3px 0;
+}
+ul {
+  padding: 0 80px;
+  margin: 0 !important;
+}
+ul li{
+  font-family: $main-type-light;
+  font-size: 16px;
+  line-height: 1.7em;
+  letter-spacing: -0.42px;
+}
+
+p.author {
+  font-size: 12px !important;
+  min-height: 50px;
+  background-image: url('../img/author.png');
+  background-position: 0px 3px;
+  background-repeat: no-repeat;
+  padding: 0px 0px 0px 50px;
+  margin: 5px 0px 7px 0px ;
+
+}
+
+p span.author-badge  {
+  color:$ps-pink !important;
+  font-family: $main-type !important;
+  background-image: url('../img/author-badge.png');
+  background-position: 0px 1px;
+  background-repeat: no-repeat;
+  padding: 3px 0px 0px 20px;
+  margin-left: 5px;
 }

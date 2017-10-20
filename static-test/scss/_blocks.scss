@@ -40,6 +40,7 @@ body, html, h1, h2, h3, h4, h5{
 }
 
 .aside-2 {
+
 }
 
 @media all and (min-width: 600px) {
@@ -48,8 +49,8 @@ body, html, h1, h2, h3, h4, h5{
 
 @media all and (min-width: 800px) {
   .main    { flex: 4 0px; }
-  .aside-1 { order: 1; 	flex: 1;}
-  .main    { order: 2;  }
+  .aside-1 { order: 1; 	flex: 1; margin-right: 20px;}
+  .main    { order: 2; flex: 4; margin-right: 20px; }
   .aside-2 { order: 3;	flex: 1; }
   .footer  { order: 4; }
 }
@@ -71,21 +72,52 @@ background-color: $gray;
 	margin: auto;
 }
 .answer aside, {
-	box-sizing: border-box;
-	width: 20%
+margin-top: 40px;
 }
 .answer article {
-	box-sizing: border-box;
-	width: 50%
+
 }
 .answer .answer-container {
 	margin: 20px 0px ;
 	padding: 20px ;
 	background-color: $white;
 	border-radius: 3px;
-	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.14), 0 2px 10px 0 rgba(0, 0, 0, 0.14);
+	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1), 0 2px 10px 0 rgba(0, 0, 0, 0.1);
 }
 
+.code {
+	padding: 20px;
+	margin-top: 30px;
+	border-radius: 3px;
+	font-family: monospace;
+}
+
+.question .code {
+		background-color: rgba(0, 0, 0, .2);
+		color: $code-gray;
+
+}
+
+.answer .code {
+	background-color: $code-answer-bg;
+	color: $code-dark;
+	margin-bottom: 30px;
+}
+
+.question aside, .answer aside {
+	padding-top: 10px;
+}
+
+.answer .video {
+	padding: 20px;
+	margin-top: 30px;
+	border-radius: 3px;
+	background-color: $black;
+	color: $code-gray;
+	margin-bottom: 20px;
+	height: 400px;
+	box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+}
 // .wrapper {
 //   display: flex;
 //   flex-flow: row wrap;
@@ -135,6 +167,7 @@ header {
 	// margin-bottom:20px;
 	// background-color: $header-color;
 }
+
 article h1 {
 	text-align: center;
 }
